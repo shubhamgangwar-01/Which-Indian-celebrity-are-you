@@ -1,0 +1,9 @@
+tensorflow
+numpy>=1.24
+opencv-python
+matplotlib
+scikit-learn
+pillow
+streamlit
+facenet-pytorch
+tqdm

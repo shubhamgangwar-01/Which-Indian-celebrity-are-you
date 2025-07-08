@@ -8,3 +8,4 @@ streamlit
 facenet-pytorch
 tqdm
 mtcnn
+torch
